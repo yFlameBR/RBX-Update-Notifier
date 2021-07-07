@@ -1,0 +1,17 @@
+  {
+    "name": "shinys-roblox-updater-notifier",
+    "version": "1.0.0",
+    "description": "Notify Roblox Update",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node index.js"
+    },
+    "keywords": [],
+    "author": "yFlameBR",
+    "license": "ISC",
+    "dependencies": {
+      "discord.js": "^12.5.3",
+      "xmlhttprequest": "^1.8.0"
+    }
+  }
